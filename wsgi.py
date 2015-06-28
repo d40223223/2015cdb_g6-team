@@ -95,8 +95,8 @@ class Hello(object):
         <meta http-equiv="content-type" content="text/html;charset=utf-8">
         </head>
         <body>
-        <a href="drawspur">123</a><br />
-        <a href="drawspur2">123</a><br />
+        <a href="drawspur">個人齒輪製作</a><br />
+        <a href="drawspur2">協同齒輪製作</a><br />
         </body>
         </html>
         '''
